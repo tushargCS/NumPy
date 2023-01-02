@@ -1,2 +1,2 @@
 # NumPy
-This repository contain of all of my knowledge related to NumPy.  
+This repository contain all of my knowledge related to NumPy.  
