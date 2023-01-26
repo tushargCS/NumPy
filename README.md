@@ -2,6 +2,7 @@
 This repository contain all of my knowledge related to NumPy.  
 
 🅿🅰🆁🆃 1 🅲🅾🅽🆃🅰🅸🅽🆂:
+
 📝Creating Arrays
  1.Creating NumPy Array. np.Array()
  2. Creating NumPy Array with Data Type
@@ -35,6 +36,7 @@ This repository contain all of my knowledge related to NumPy.
  10. Splitting - hsplit, vsplit
 
 🅿🅰🆁🆃 2 🅲🅾🅽🆃🅰🅸🅽🆂:
+ 
  1.NumPy Array vs Python List
  2. Advance Indexing
  3. Fancy Indexing
@@ -50,6 +52,7 @@ This repository contain all of my knowledge related to NumPy.
 
 
 🅿🅰🆁🆃 3 🅲🅾🅽🆃🅰🅸🅽🆂:
+
  1. np.sort
  2. np.append
  3. np.concatenate
