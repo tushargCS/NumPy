@@ -1,77 +1,133 @@
-# NumPy
-This repository contain all of my knowledge related to NumPy.  
+# NumPy Tutorial
 
-🅿🅰🆁🆃 1 🅲🅾🅽🆃🅰🅸🅽🆂:
+![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png)
 
-📝Creating Arrays
- 1.Creating NumPy Array. np.Array()
- 2. Creating NumPy Array with Data Type
- 3. Creating NumPy Array using np.Arange() and .reshape()
- 4. np.ones and np.zeros
- 5. np.random
- 6. linearly spaced array- np.linspace()
- 7. Identity Matrix Creation - np.identity() or np.eye()
- 
-📝 NumPy Array Attributes
- 1. ndim
- 2. shape
- 3. size
- 4. itemsize
- 5. dtype
- 6. Changing Datatype - astype
- 7. Array Operations
- 8. Scalar Operation
- 9. Vector Operation
+Welcome to the **NumPy Tutorial**! This tutorial covers various topics related to NumPy, a powerful Python library for numerical computations. In this tutorial, you will learn how to work with NumPy arrays, perform array operations, use array functions, and more.
 
-📝NumPy Array Functions
- 1. Max/Min/Sum/Prod
- 2. Mean, Median, Standard Deviation, Variance, Trigo 
- 3. Arrays Dot Product
- 4. Log and Exp function
- 5. Round, Floor, Ceil
- 6. Indexing Slicing
- 7. Iteration on NumPy Array
- 8. Reshaping - Transpose, Ravel
- 9. Stacking - vstack, hstack
- 10. Splitting - hsplit, vsplit
+## Table of Contents
 
-🅿🅰🆁🆃 2 🅲🅾🅽🆃🅰🅸🅽🆂:
- 
- 1.NumPy Array vs Python List
- 2. Advance Indexing
- 3. Fancy Indexing
- 4. Boolean Indexing
- 5. Broadcasting
- 6. Broadcasting Rules
- 7. Broadcasting Examples
- 8. Mathematical Operations in NumPy
- 9. Sigmoid in NumPy
- 10. Mean Squared error in NumPy
- 11. Working with missing values
- 12. Plotting Graphs
+- [Creating Arrays](#creating-arrays)
+- [NumPy Array Attributes](#numpy-array-attributes)
+- [Array Operations](#array-operations)
+- [NumPy Array Functions](#numpy-array-functions)
+- [NumPy Array vs Python List](#numpy-array-vs-python-list)
+- [Advance Indexing](#advance-indexing)
+- [Fancy Indexing](#fancy-indexing)
+- [Boolean Indexing](#boolean-indexing)
+- [Broadcasting](#broadcasting)
+- [Mathematical Operations in NumPy](#mathematical-operations-in-numpy)
+- [Sigmoid in NumPy](#sigmoid-in-numpy)
+- [Mean Squared Error in NumPy](#mean-squared-error-in-numpy)
+- [Working with Missing Values](#working-with-missing-values)
+- [Plotting Graphs](#plotting-graphs)
+- [NumPy Functions](#numpy-functions)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Creating Arrays
 
-🅿🅰🆁🆃 3 🅲🅾🅽🆃🅰🅸🅽🆂:
+- Creating NumPy Array: `np.array()`
+- Creating NumPy Array with Data Type
+- Creating NumPy Array using `np.arange()` and `.reshape()`
+- `np.ones` and `np.zeros`
+- `np.random`
+- Linearly spaced array - `np.linspace()`
+- Identity Matrix Creation - `np.identity()` or `np.eye()`
 
- 1. np.sort
- 2. np.append
- 3. np.concatenate
- 4. np.unique
- 5. np.expand_dims
- 6. np.where
- 7. np.argmax, np.argmin
- 8. np.cumsum, np.cumprod
- 9. np.percentile
- 10. np.histogram
- 11. np.corrcoef
- 12. np.isin
- 13. np.flip
- 14. np.put
- 15. np.delete
- 16. Set Functions
- 17. np.union1d
- 18. np.intersect1d
- 19. np.setdiff1d
- 20. np.setxor1d
- 21. np.in1d
- 22. np.clip
+## NumPy Array Attributes
+
+- `ndim`
+- `shape`
+- `size`
+- `itemsize`
+- `dtype`
+- Changing Datatype - `astype()`
+
+## Array Operations
+
+- Scalar Operation
+- Vector Operation
+
+## NumPy Array Functions
+
+- Max/Min/Sum/Prod
+- Mean, Median, Standard Deviation, Variance, Trigo
+- Arrays Dot Product
+- Log and Exp function
+- Round, Floor, Ceil
+- Indexing Slicing
+- Iteration on NumPy Array
+- Reshaping - Transpose, Ravel
+- Stacking - vstack, hstack
+- Splitting - hsplit, vsplit
+
+## NumPy Array vs Python List
+
+- Comparison between NumPy arrays and Python lists
+
+## Advance Indexing
+
+- Advanced indexing techniques
+
+## Fancy Indexing
+
+- Fancy indexing methods
+
+## Boolean Indexing
+
+- Boolean indexing in NumPy
+
+## Broadcasting
+
+- Broadcasting in NumPy
+- Broadcasting rules and examples
+
+## Mathematical Operations in NumPy
+
+- Various mathematical operations in NumPy
+
+## Sigmoid in NumPy
+
+- Implementing sigmoid function using NumPy
+
+## Mean Squared Error in NumPy
+
+- Calculating mean squared error using NumPy
+
+## Working with Missing Values
+
+- Techniques for handling missing values in NumPy arrays
+
+## Plotting Graphs
+
+- Plotting graphs using NumPy arrays
+
+## NumPy Functions
+
+- `np.sort`
+- `np.append`
+- `np.concatenate`
+- `np.unique`
+- `np.expand_dims`
+- `np.where`
+- `np.argmax`, `np.argmin`
+- `np.cumsum`, `np.cumprod`
+- `np.percentile`
+- `np.histogram`
+- `np.corrcoef`
+- `np.isin`
+- `np.flip`
+- `np.put`
+- `np.delete`
+- Set Functions
+  - `np.union1d`
+  - `np.intersect1d`
+  - `np.setdiff1d`
+  - `np.setxor1d`
+  - `np.in1d`
+- `np.clip`
+
+## Contributing
+
+Contributions are welcome! If you find any issues or would like to add new features, please feel free to open an issue or submit a pull request.
+
